@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "4044aac5-d6b0-4cd4-8261-a3fe017e7a75",
+		"name": "Dummy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23015532"
+	},
+	"item": [
+		{
+			"name": "GestionEmployee",
+			"item": [
+				{
+					"name": "GetAllEmployees",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "GetsingleExistingEmployeeBld",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
